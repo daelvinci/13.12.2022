@@ -1,0 +1,5 @@
+1. https://dotnetfiddle.net/hMOajX reqemlerde indexi qaytaran metod
+2. https://dotnetfiddle.net/yuHeYg stringlerde axtarilan sozu tapan metod yoxdusa -1 qaytarir;
+3. https://dotnetfiddle.net/vzs2bz ededler siyahisinda musbet array duzleden 
+4. https://dotnetfiddle.net/P7oG0J Yazida reqem var mi ya yox qaytaran metod
+5. https://dotnetfiddle.net/JqfMZm nece stringde reqem var
